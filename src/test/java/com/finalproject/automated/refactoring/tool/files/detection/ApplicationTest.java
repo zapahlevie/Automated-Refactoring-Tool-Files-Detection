@@ -19,9 +19,9 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 /**
- * @author fazazulfikapp
+ * @author M. Reza Pahlevi
  * @version 1.0.0
- * @since 2 November 2018
+ * @since 27 April 2019
  */
 
 @RunWith(SpringRunner.class)

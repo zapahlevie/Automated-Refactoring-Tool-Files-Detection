@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author Faza Zulfika P P
+ * @author M. Reza Pahlevi
  * @version 1.0.0
- * @since 7 October 2018
+ * @since 27 April 2019
  */
 
 @SpringBootApplication

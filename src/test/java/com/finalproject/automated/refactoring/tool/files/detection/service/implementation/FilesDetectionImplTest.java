@@ -22,9 +22,9 @@ import static org.mockito.ArgumentMatchers.eq;
 import static org.mockito.Mockito.*;
 
 /**
- * @author Faza Zulfika P P
+ * @author M. Reza Pahlevi
  * @version 1.0.0
- * @since 7 October 2018
+ * @since 27 April 2019
  */
 
 @RunWith(SpringRunner.class)

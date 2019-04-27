@@ -13,9 +13,9 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;
 
 /**
- * @author Faza Zulfika P P
+ * @author M. Reza Pahlevi
  * @version 1.0.0
- * @since 7 October 2018
+ * @since 27 April 2019
  */
 
 public class FilesDetectionThreadImplTest {
